@@ -27,10 +27,10 @@ This project provides a comprehensive look at how major cryptocurrencies have pe
 ## 📸 Dashboard Views
 
 ### 📈 Price Trends Analysis
-![Price Trends Dashboard](screenshots/price_trends.png)
+![Price Trends Dashboard](Cryptocurrency-Dashboard-Price-Trends-Analysis/price_trends.png)
 
 ### 💰 Cryptocurrency Dashboard
-![Crypto Dashboard](screenshots/crypto_dashboard.png)
+![Crypto Dashboard](Cryptocurrency-Dashboard-Price-Trends-Analysis/crypto_dashboard.png)
 
 ---
 
